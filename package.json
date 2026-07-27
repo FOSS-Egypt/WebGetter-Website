@@ -1,0 +1,11 @@
+{
+  "name": "webgetter-web",
+  "version": "1.0.0",
+  "description": "Web version of WebGetter — fetch website source code as a zip",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "cheerio": "^1.0.0",
+    "jszip": "^3.10.1"
+  }
+}
